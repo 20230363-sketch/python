@@ -1,0 +1,3 @@
+print("\n=== Bài 2 ===")
+s = input("Nhập chuỗi: ")
+print("Chuỗi vừa nhập:", s)

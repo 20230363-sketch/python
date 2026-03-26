@@ -1,0 +1,17 @@
+print("\n=== Bài 3 ===")
+x = int(input("Nhập số x: "))
+y = int(input("Nhập số y: "))
+z = int(input("Nhập số z: "))
+
+# a) Tổng và tích
+print("Tổng =", x + y + z)
+print("Tích =", x * y * z)
+
+# b) Hiệu 2 số bất kỳ
+print("x - y =", x - y)
+print("y - z =", y - z)
+print("x - z =", x - z)
+
+# c) Chia
+print("x // y =", x // y, ", dư =", x % y, ", chia =", x / y)
+print("y // z =", y // z, ", dư =", y % z, ", chia =", y / z)

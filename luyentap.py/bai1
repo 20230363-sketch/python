@@ -1,0 +1,5 @@
+
+print("=== Bài 1 ===")
+a = int(input("Nhập số nguyên a: "))
+b = int(input("Nhập số nguyên b: "))
+print("Tổng =", a + b)
